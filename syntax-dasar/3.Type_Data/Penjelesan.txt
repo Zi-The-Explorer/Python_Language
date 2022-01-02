@@ -1,0 +1,15 @@
+Tipe data adalah suatu media atau memori pada komputer yang digunakan untuk menampung informasi.
+Python sendiri mempunyai tipe data yang cukup unik bila kita bandingkan dengan bahasa pemrograman yang lain.
+Berikut adalah tipe data dari bahasa pemrograman Python :
+
+Tipe data                   Contoh                                  Penjelasan
+
+Boolean                     True, False                             Tipe data boolean digunakan untuk menyatakan suatu nilai yang benar atau salah.
+String                     'Hello World'                            Tipe data string digunakan untuk menyimpan karakter/kalimat bisa berupa huruf angka, dll (diapit tanda " atau ').
+Integer                     1, 2, 3, 4, 5                           Tipe data integer digunakan untuk menyimpan bilangan bulat.
+Float                       3.14 or 0.99                            Menyatakan bilangan pecahan, atau bilangan koma yang di apit dengan tanda titik.
+Hexadecimal                 0xFF, 0xA5, 0x0F, 0x12                  Menyatakan bilangan hexadecimal.
+Complex                     1j, 2j, 3j, 4j, 5j                      Menyatakan bilangan kompleks / bilangan pasangan real dan imaginer.
+List                       [1, 2, 3, 4, 5]                          Menyatakan sebuah list yang berisi beberapa nilai yang isinya dapat diubah ubah
+Tuple                       ('xyz', 768, 2.23)                      Menyatakan sebuah tuple yang berisi beberapa nilai yang isinya tidak dapat diubah.   
+Dictionary                  {'x': 1, 'y': 2}                        Menyatakan sebuah dictionary / Data untaian yang menyimpan berbagai tipe data berupa pasangan key dan value.

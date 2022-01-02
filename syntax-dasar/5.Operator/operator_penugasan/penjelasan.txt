@@ -1,0 +1,12 @@
+Operator penugasan digunakan untuk memberikan atau memodifikasi nilai ke dalam sebuah variabel.
+
+Operator                            contoh                                       Penjelasan 
+
+=                                 x = 5                                        x akan diisi dengan nilai 5
++=                                x += 5                                       x akan ditambahkan dengan nilai 5
+-=                                x -= 5                                       x akan dikurangi dengan nilai 5
+*=                                x *= 5                                       x akan dikalikan dengan nilai 5
+/=                                x /= 5                                       x akan dibagi dengan nilai 5
+%=                                x %= 5                                       x akan dibagi dengan nilai 5
+**=                               x **= 5                                      x akan dikalikan dengan nilai 5
+//=                               x //= 5                                      x akan dibagi dengan nilai 5

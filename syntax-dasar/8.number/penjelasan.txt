@@ -1,0 +1,21 @@
+Number adalah tipe data Python yang menyimpan nilai numerik.
+Number adalah tipe data yang tidak berubah. Ini berarti, mengubah nilai dari sejumlah tipe data akan menghasilkan objek yang baru dialokasikan.
+
+Objek Number dibuat saat Anda memberikan nilai pada-nya. Sebagai contoh : angkaPertama = 1 angkaKedua = 33
+
+Python mendukung beberapa tipe data Number diantaranya :
+
+Int
+Float
+Complex
+
+
+Int                                             Float                                               Complex
+
+20                                              20.0                                               3.14j
+300                                            300.0                                                14j
+-13                                            -13.0                                               3.12e-12j
+020                                            32.23+e123                                          .873j
+-0103                                               -92.                                              -.123+0j
+-0x212                                            -32.52e10                                            3e+123J
+0x56                                           32.52e10                                            3e-123J 

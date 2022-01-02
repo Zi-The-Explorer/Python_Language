@@ -1,0 +1,15 @@
+Fungsi Trigonometri Python
+Python mencakup fungsi berikut yang melakukan perhitungan trigonometri. Berikut adalah daftarnya :
+
+Nama                Penggunaan                  Penjelasan 
+
+Acos                  acos(x)                    Mengembalikan nilai arccosine dari x.
+Asin                 asin(x)                    Mengembalikan nilai arcsine dari x.
+Atan                atan(x)                    Mengembalikan nilai arctangent dari x.
+Atan2                atan2(x, y)                Mengembalikan nilai arctangent dari x dan y.
+Konsinus            cos(x)                     Mengembalikan nilai cosine dari x.
+Hypot                hypot(x, y)                Mengembalikan nilai hypotenusa dari x dan y.
+Sin                 sin(x)                     Mengembalikan nilai sine dari x.
+Tan                tan(x)                     Mengembalikan nilai tangent dari x.
+Derajat            degrees(x)                Mengembalikan nilai dalam derajat dari x.
+Radian            radians(x)                Mengembalikan nilai dalam radian dari x.

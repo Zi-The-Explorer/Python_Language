@@ -1,0 +1,2 @@
+While Loop
+Pengulangan While Loop di dalam bahasa pemrograman Python dieksesusi statement berkali-kali selama kondisi bernilai benar atau True.

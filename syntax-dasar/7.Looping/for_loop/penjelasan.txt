@@ -1,0 +1,2 @@
+For Loop
+Pengulangan for pada Python memiliki kemampuan untuk mengulangi item dari urutan apapun, seperti list atau string.

@@ -1,0 +1,8 @@
+Konversi Tipe Data Number Python
+Pada Python Anda bisa mengkonversi tipe data dengan menggunakan fungsi. Dibawah ini adalah beberapa fungsi untuk mengkonversi tipe data number Python.
+
+int(x) untuk meng-konversi x menjadi plain integer.
+long(x) untuk meng-konversi x menjadi long integer.
+float(x) untuk meng-konversi x menjadi floating point number.
+complex(x) untuk meng-konversi x menjadi complex number dengna real part x dan imaginary part zero.
+complex(x, y) untuk meng-konversi x dan y menjadi complex number dengan real part x dan imaginary part y. x dan numeric expressions y.

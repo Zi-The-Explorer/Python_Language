@@ -1,0 +1,19 @@
+Fungsi Matematika Python
+Pada bahasa pemrograman Python terdapat fungsi untuk melakukan perhitungan matematis, berikut adalah daftarnya :
+
+Nama                                             Penggunaan                                         Penjelasan 
+
+Absolute                                        abs(x)                                             Mengembalikan nilai absolut dari x.
+Celling                                          ceil(x)                                            Mengembalikan bilangan pembulatan ke atas dari x.
+Cmp                                              cmp(x, y)                                          Mengembalikan nilai -1, 0 atau 1 yang menunjukkan nilai x dari y.
+Eksponential                                     exp(x)                                             Mengembalikan nilai eksponensial dari x.
+Fabs                                         fabs(x)                                            Mengembalikan nilai absolut dari x.
+Floor                                            floor(x)                                           Mengembalikan bilangan pembulatan ke bawah dari x.
+Logarithm                                        log(x)                                             Mengembalikan logaritma dari x.
+Logarithm Base 10                                log10(x)                                           Mengembalikan logaritma dari x dalam basis 10.
+Maximum                                          max(x1, x2, ..., xn)                              Mengembalikan nilai maksimum dari x1, x2, ..., xn.
+Min                                             min(x1, x2, ..., xn)                              Mengembalikan nilai minimum dari x1, x2, ..., xn.
+Modf                                             modf(x)                                            Mengembalikan nilai x yang dibagi dengan bilangan bulat dan sisa bagi dari pembagian x.
+Power                                            pow(x, y)                                          Mengembalikan x dalam bentuk y.
+Round                                            round(x)                                           Mengembalikan bilangan pembulatan ke atas dari x.
+Akar kuadrat                                      sqrt(x)                                            Mengembalikan akar kuadrat dari x.

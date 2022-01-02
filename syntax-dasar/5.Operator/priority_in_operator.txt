@@ -1,0 +1,29 @@
+Dari semua operator diatas, 
+masing-masing mempunyai urutan prioritas yang nantinya prioritas pertama akan dilakukan paling pertama, 
+begitu seterusnya sampai dengan prioritas terakhir.
+
+
+Operator yang memiliki prioritas tertinggi adalah :
+
+    Operator Aritmatika
+    Operator Perbandingan
+    Operator Logika
+    Operator Assignment
+
+
+
+    Operator                                                        Keterangan 
+
+    **                                                               Aritmatika
+    ~,+,-                                                            Bitwise
+    *,/,%,//                                                         Aritmatika
+    +,-                                                              Aritmatika
+    <<,>>                                                            Bitwise
+    &                                                                Bitwise
+    ^,|                                                              Bitwise
+    <=,<,>=,>                                                        Perbandingan
+    <>,==,!=                                                         Perbandingan
+    =,+=,-=,*=,/=,%=,&=,|=,^=,<<=,>>=                               Assignment
+    is,is not                                                          Logika
+    in, not in                                                        Membership(Keanggotaan)
+    not, and, or                                                      Logika

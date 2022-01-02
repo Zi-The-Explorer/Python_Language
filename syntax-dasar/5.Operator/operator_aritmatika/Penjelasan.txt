@@ -1,0 +1,11 @@
+operator Aritmatika
+
+Opeartor                      Contoh                                   Penjelasan
+
++                              1 + 2 = 3                               Menjumlahkan nilai 1 dan 2
+-                              2 - 1 = 1                               Mengurangi nilai 2 dengan 1
+*                              2 * 2 = 4                               Mengalikan nilai 2 dengan 2
+/                              2 / 2 = 1                               Membagi nilai 2 dengan 2
+%                              2 % 2 = 0                               mendapatkan sisa bagi nilai 2 dengan 2
+**                             2 ** 2 = 4                              Memangkatkan nilai 2 dengan 2
+//                            2 // 2 = 1                               Membagi nilai 2 dengan 2, hanya saja mengembalikan nilai bulat dan menghilangkan koma

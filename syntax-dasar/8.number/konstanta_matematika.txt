@@ -1,0 +1,7 @@
+Konstanta Matematika Python
+Modul ini juga mendefinisikan dua konstanta matematika. Berikut adalah daftarnya :
+
+Nama        Penggunaan      Penjelasan 
+
+Pi          pi              Konstanta Pi Matematika 
+e           e               Konstanta Euler Matematika

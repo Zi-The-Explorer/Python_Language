@@ -1,0 +1,12 @@
+Fungsi Nomor Acak Python
+Nomor acak digunakan untuk aplikasi permainan, simulasi, pengujian, keamanan, dan privasi. Python mencakup fungsi berikut yang umum digunakan. Berikut adalah daftarnya :
+
+Nama                         Penggunaan                                       Penjelasan
+
+Choice                      choice(seq)                                  item acak dari list, tuple, atau string
+RandRange                  randrange(start, stop[, step])                  Element yang dipilih secara acak dari jangkauan (start, stop, step)
+Random                     random()                                      Nilai acak dari 0.0 sampai 1.0
+Seed                   seed([seed])                                        Set atau mengambil nilai acak
+Shuffle                  shuffle(lst)                                  Mengacak elemen dari list
+Floor                     floor(x)                                      Batas bawah dari x
+Uniform                   uniform(x, y)                                 Nilai acak dari x sampai y
